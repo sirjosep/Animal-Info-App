@@ -1,0 +1,116 @@
+<resources>
+    <string name="app_name">AnimalInfoApp</string>
+    <string name="nama">Josep Victor Rajadoli</string>
+    <string name="email">josepvictorrrrr@gmail.com</string>
+
+    <string-array name="animal_name">
+        <item>ANJING</item>
+        <item>AYAM</item>
+        <item>BABI</item>
+        <item>DOMBA</item>
+        <item>GAJAH</item>
+        <item>HARIMAU</item>
+        <item>KUCING</item>
+        <item>MONYET</item>
+        <item>PANDA</item>
+        <item>RUBAH</item>
+        <item>SAPI</item>
+    </string-array>
+
+    <string-array name="animal_biology">
+        <item>Canis lupus familiaris</item>
+        <item>Gallus gallus domesticus</item>
+        <item>Sus scrofa domesticus</item>
+        <item>Ovis aries</item>
+        <item>Elephantidae</item>
+        <item>Panthera tigris</item>
+        <item>Felis catus</item>
+        <item>Macaca fascicularis</item>
+        <item>Ailuropoda melanoleuca</item>
+        <item>Vulpes vulpes</item>
+        <item>Bos taurus</item>
+    </string-array>
+
+    <string-array name="animal_weight_height">
+        <item>Anjing memiliki berat badan 27 - 40 kg dan tinggi badan 15 - 110 cm.</item>
+        <item>Ayam memiliki berat badan 2.6 kg dan tinggi badan dibawah 70 cm.</item>
+        <item>Babi memiliki berat badan 55 - 100 kg dan tinggi badan 75 - 100 cm.</item>
+        <item>Domba memiliki berat badan 45 - 160 kg dan tinggi badan 85 - 140 cm.</item>
+        <item>Gajah memiliki berat badan 2700 - 6000 kg dan tinggi badan 5.5 6.5 m.</item>
+        <item>Harimau memiliki berat badan 65 - 310 kg dan tinggi badan 70 - 120 cm.</item>
+        <item>Kucing memiliki berat badan 3.6 - 4.5 kg dan tinggi badan 23 - 25 cm.</item>
+        <item>Monyet memiliki berat badan 13 - 37 kg dan tinggi badan 55 - 65 cm.</item>
+        <item>Panda memiliki berat badan 70 - 120 kg dan tinggi badan 60 - 90 cm.</item>
+        <item>Rubah memiliki berat badan 0.68 - 14kg dan tinggi badan 20 - 50 cm.</item>
+        <item>Sapi memiliki berat badan 635 - 907 kg dan tinggi badan 1.6 - 1.8 m</item>
+    </string-array>
+
+    <string-array name="animal_food">
+        <item>Anjing merupakan hewan Karnivora ( Pemakan Daging ).</item>
+        <item>Ayam merupakan hewan Omnivora ( Pemakan Segalanya ).</item>
+        <item>Babi merupakan hewan Omnivora ( Pemakan Segalanya ).</item>
+        <item>Domba merupakan hewan Herbivora ( Pemakan Tumbuhan ).</item>
+        <item>Gajah merupakan hewan Herbivora ( Pemakan Tumbuhan ).</item>
+        <item>Harimau merupakan hewan Karnivora ( Pemakan Daging ).</item>
+        <item>Kucing merupakan hewan Karnivora ( Pemakan Daging ).</item>
+        <item>Monyet merupakan hewan Omnivora ( Pemakan Segalanya ).</item>
+        <item>Panda merupakan hewan Herbivora ( Pemakan Tumbuhan ).</item>
+        <item>Rubah merupakan hewan Omnivora ( Pemakan Segalanya ).</item>
+        <item>Sapi merupakan hewan Herbivora ( Pemakan Tumbuhan ).</item>
+    </string-array>
+
+    <string-array name="animal_age">
+        <item>Anjing dapat hidup  10 sampai 13 tahun.</item>
+        <item>Ayam dapat hidup 5 sampai 10 tahun.</item>
+        <item>Babi dapat hidup 15 sampai 20 tahun.</item>
+        <item>Domba dapat hidup 10 sampai 12 tahun.</item>
+        <item>Gajah dapat hidup 48 tahun, 60 sampai 70 tahun, namun ada juga yang bisa sampai beratus - ratus tahun.</item>
+        <item>Harimau dapat hidup 8 sampai 10 tahun.</item>
+        <item>Kucing dapat hidup 2 sampai 16 tahun.</item>
+        <item>Monyet dapat hidup rata - rata 20 tahunan.</item>
+        <item>Panda dapat hidup sampai 20 tahun.</item>
+        <item>Rubah dapat hidup 2 sampai 5 tahun.</item>
+        <item>Sapi dapat hidup 18 sampai 22 tahun.</item>
+    </string-array>
+
+    <string-array name="animal_habitat">
+        <item>Anjing biasa ditemukan di Hutan, padang, savana, perumahan, pekarangan, lereng gunung.</item>
+        <item>Ayam biasa ditemukan di habitat atau tempat tinggal berupa wilayah bersemak dan kering.</item>
+        <item>Babi biasa ditemukan di Grassland, alpine tundra , tropical forests, savannas, and swamps.</item>
+        <item>Domba biasa ditemukan di Hutan pegunungan atau di dataran rendah.</item>
+        <item>Gajah biasa ditemukan di Sabana, hutan, gurun, dan rawa-rawa.</item>
+        <item>Harimau biasa ditemukan di Hutan dataran rendah sampai hutan pegunungan, dan tinggal di banyak tempat yang tak terlindungi.</item>
+        <item>Kucing biasa ditemukan di Daratan, yaitu di kawasan hutan, sabana, dan stepa.</item>
+        <item>Monyet biasa ditemukan di Hutan-hutan pesisir (mangrove, hutan pantai), dan hutan-hutan sepanjang sungai besar, di dekat perkampungan, kebun campuran, atau perkebunan.</item>
+        <item>Panda biasa ditemukan di Hutan pada ketinggian di atas 1.500 meter dari permukaan laut dengan banyak pohon bambu.</item>
+        <item>Rubah biasa ditemuakn di Hidup di hutan, semak-semak dan padang pasir.</item>
+        <item>Sapi biasa ditemukan di daratan yang mempunyai rumput dan cadangan air yang cukup.</item>
+    </string-array>
+
+    <array name="animal_head">
+        <item>@drawable/anjing</item>
+        <item>@drawable/ayam</item>
+        <item>@drawable/babi</item>
+        <item>@drawable/domba</item>
+        <item>@drawable/gajah</item>
+        <item>@drawable/harimau</item>
+        <item>@drawable/kucing</item>
+        <item>@drawable/monyet</item>
+        <item>@drawable/panda</item>
+        <item>@drawable/rubah</item>
+        <item>@drawable/sapi</item>
+    </array>
+    <array name="animal_pic">
+        <item>@drawable/dog</item>
+        <item>@drawable/chicken</item>
+        <item>@drawable/pig</item>
+        <item>@drawable/sheep</item>
+        <item>@drawable/elephant</item>
+        <item>@drawable/tiger</item>
+        <item>@drawable/cat</item>
+        <item>@drawable/monkey</item>
+        <item>@drawable/pandas</item>
+        <item>@drawable/fox</item>
+        <item>@drawable/cow</item>
+    </array>
+</resources>
